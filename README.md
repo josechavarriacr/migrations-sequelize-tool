@@ -1,0 +1,1 @@
+# migrations-sequelize-tool
